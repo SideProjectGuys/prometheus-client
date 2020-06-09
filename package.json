@@ -12,6 +12,7 @@
 	"dependencies": {},
 	"devDependencies": {
 		"@types/node": "14.0.12",
+		"tslint": "6.1.2",
 		"typescript": "3.9.5",
 		"typestrict": "1.0.2"
 	}
