@@ -1,0 +1,17 @@
+{
+	"name": "prometheus-client",
+	"version": "1.0.0",
+	"description": "",
+	"main": "lib/index.js",
+	"scripts": {
+		"build": "tsc"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {},
+	"devDependencies": {
+		"@types/node": "14.0.12",
+		"typescript": "3.9.5",
+		"typestrict": "1.0.2"
+	}
+}

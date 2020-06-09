@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"module": "CommonJS",
+		"target": "ES2017",
+		"lib": ["ESNext", "DOM"],
+		"sourceMap": true,
+		"removeComments": false,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"types": ["node"],
+		"sourceRoot": "src",
+		"outDir": "lib"
+	},
+	"exclude": ["node_modules", "lib"]
+}
